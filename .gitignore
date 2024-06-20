@@ -1,0 +1,18 @@
+# macOS files
+__MACOSX/
+**/.DS_Store
+**/.ipynb_checkpoints/
+**/.OTTER_LOG
+.DS_Store
+.*.swp
+.*.swo
+DS_Store
+
+# Python byte-compiled cache
+__pycache__/
+
+# env
+.env
+
+# vscode
+.vscode
